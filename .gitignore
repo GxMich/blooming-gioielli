@@ -1,0 +1,10 @@
+# Versione colorata di riserva: resta solo in locale
+index-v1-colorata.html
+assets/v1/
+assets/img/
+
+# File di lavoro
+.playwright-mcp/
+*.log
+Thumbs.db
+desktop.ini
